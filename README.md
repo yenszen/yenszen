@@ -1,8 +1,10 @@
-## Hi there 👋 I'm Yen Szen!
-### Here's a little bit about me :)
+## Hello World 👋
 
+Hi, I'm Yen Szen! I'm a Full Stack Web Developer currently learning all things web development at Lambda School. Always looking forward to new opportunities :)
+
+### Additional info
 - 🔭 I’m currently working on ... Resfeber
-- 🌱 I’m currently learning ... Plotly.js
+- 🌱 I’m currently learning ... React Testing Library
 - 👯 I’m looking to collaborate on ... Full Stack Web Development
 - 🤔 I’m looking for help with ... Job Search
 - 💬 Ask me about ... Anything
@@ -10,9 +12,6 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Financial Economics Graduate at City University, London!
 
-Tech Stack
-![JavaScript]<img src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png"/>
+[![Yen Szen's github stats](https://github-readme-stats.vercel.app/api?username=yenszen&count_private=true&show_icons=true&theme=radical)](https://github.com/yenszen/github-readme-stats)
 
-
-
-<a href="https://icons8.com/icon/106036/javascript-logo">JavaScript Logo icon by Icons8</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yenszen)](https://github.com/yenszen/github-readme-stats)
