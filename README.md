@@ -12,6 +12,10 @@ Hi, I'm Yen Szen! I'm a Full Stack Web Developer currently learning all things w
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Financial Economics Graduate at City University, London!
 
-[![Yen Szen's github stats](https://github-readme-stats.vercel.app/api?username=yenszen&count_private=true&show_icons=true&theme=radical)](https://github.com/yenszen/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yenszen)](https://github.com/yenszen/github-readme-stats)
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+  <a href="https://github.com/yenszen">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yenszen&count_private=true&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenszen&theme=radical" />
+  </a>
+</p>
