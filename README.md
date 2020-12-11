@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Yen Szen!
-## Here's a little bit about me :)
+## Hi there 👋 I'm Yen Szen!
+### Here's a little bit about me :)
 
 - 🔭 I’m currently working on ... Resfeber
 - 🌱 I’m currently learning ... Plotly.js
@@ -10,3 +10,9 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Financial Economics Graduate at City University, London!
 
+Tech Stack
+![JavaScript]<img src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png"/>
+
+
+
+<a href="https://icons8.com/icon/106036/javascript-logo">JavaScript Logo icon by Icons8</a>
