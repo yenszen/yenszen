@@ -9,7 +9,6 @@ Hi, I'm Yen Szen! I'm a Full Stack Web Developer currently learning all things w
 - 🤔 I’m looking for help with ... Job Search
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/yenszenyap/)
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Financial Economics Graduate at City University, London!
 
 ### ⚙️ &nbsp;GitHub Analytics
